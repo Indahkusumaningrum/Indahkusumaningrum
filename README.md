@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indahkusumaningrum
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ and java
+- 🌱 I’m currently learning c++
 - 📫 How to reach me ...
 
 <!---
