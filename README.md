@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Indahkusumaningrum
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 📫 How to reach me ...
 
 <!---
 Indahkusumaningrum/Indahkusumaningrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
